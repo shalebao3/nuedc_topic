@@ -117,3 +117,5 @@ jobs:
           git add 1994 1995 1997 1999 2001 2003 2005 2007
           git commit -m "docs: add NUEDC problems for 1994-2007"
           git push origin HEAD:chore/import-nuedc-1994-2007
+
+# trigger import
